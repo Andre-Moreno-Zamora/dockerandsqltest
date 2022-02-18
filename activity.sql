@@ -37,6 +37,8 @@
     9. Please run the following SQL statements
 */
 
+use sakila;
+
 /* 
     Activities:
 
